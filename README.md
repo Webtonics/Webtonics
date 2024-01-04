@@ -2,7 +2,6 @@
 - 👀 I’m interested in Flutter Software Development
 - 🌱 I’m currently learning Flutter, Rust, DJango
 - 💞️ I’m looking to collaborate on Flutter Project
-- 📫 How to reach me Visit 
 
 <!---
 Webtonics/Webtonics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
